@@ -28,7 +28,7 @@ class CBox
 	}
 	
 }
-public class Class04 {
+public class Class05 {
 
 	public static void main(String[] args) {
 		CBox box=new CBox();
